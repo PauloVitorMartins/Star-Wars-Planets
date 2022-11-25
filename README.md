@@ -3,6 +3,10 @@ Trabalho realizado por mim na data de 25/10, entregue em prazo regular em tempo 
 utilizando: React, React-context, JavaScript, Css, react-testing-library, Muita Lógica de progamação :), Hooks, HTML semântico, consumindo API através de jest, HOF(High Order Functions), Unit Tests mockeando uma API.
 
 Para testa-lo abra uma pasta, abra seu terminal, clone o repositório nela atráves do seguinte comando: 
+git clone git@github.com:PauloVitorMartins/Star-Wars-Planets.git
+após clonado, entre na pasta clonada e instale as dependências com este outro comando:
+npm install
+aguarde a instalação, após isso basta iniciar a aplicação rodando o último comando: npm start
 
 
 
