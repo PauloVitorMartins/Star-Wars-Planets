@@ -1,3 +1,12 @@
+Trabalho realizado por mim na data de 25/10, entregue em prazo regular em tempo impressioante.
+utilizando: React, React-context, JavaScript, Css, react-testing-library, Muita Lógica de progamação :), Hooks, HTML semântico, consumindo API através de jest, HOF(High Order Functions), Unit Tests mockeando uma API.
+
+
+
+
+
+ABAIXO SEGUEM AS INSTRUÇÕES QUE NOS FORAM PASSADAS PELA TRYBE:
+
 # Boas-vindas ao repositório do projeto Star Wars Planets Search!
 
 ![img](projectIntro.gif)
