@@ -2,6 +2,7 @@ Trabalho realizado por mim na data de 25/10, entregue em prazo regular em tempo 
 
 utilizando: React, React-context, JavaScript, Css, react-testing-library, Muita Lógica de progamação :), Hooks, HTML semântico, consumindo API através de jest, HOF(High Order Functions), Unit Tests mockeando uma API.
 
+Para testa-lo abra uma pasta, abra seu terminal, clone o repositório nela atráves do seguinte comando: 
 
 
 
