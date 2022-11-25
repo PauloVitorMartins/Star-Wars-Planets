@@ -1,0 +1,75 @@
+.tableBody {
+  border: 1px solid rgb(246, 246, 234);
+  color: white;
+}
+
+.links {
+  color: aqua;
+}
+
+.links:hover {
+  color: black;
+}
+
+input {
+  border: 2px solid aqua;
+}
+
+td {
+  border: 1px solid rgb(246, 246, 234);
+  cursor: pointer;
+  text-align: center;
+  transform: scale(0.9);
+  transition: all ease 0.3s;
+  width: 100%;
+}
+
+td:hover {
+  background-color: azure;
+  color: black;
+  font-size: x-large;
+  transform: scale(1);
+}
+
+.logo {
+  margin-left: 80%;
+  padding-bottom: 2%;
+  padding-right: auto;
+  width: 15%;
+}
+
+.filter-and-button {
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+}
+
+.delete-filter-button {
+  background: none;
+  border: none;
+  color: aqua;
+  cursor: pointer;
+  font-size: x-large;
+  margin-left: 2%;
+  transform: scale(0.9);
+  transition: all ease 0.3s;
+}
+
+.delete-filter-button:hover {
+  background-color: azure;
+  color: black;
+  font-size: x-large;
+  transform: scale(1.5);
+}
+
+.filters {
+  align-items: center;
+  background-color: white;
+  border-radius: 2%;
+  color: black;
+  display: flex;
+  height: 5vh;
+  justify-content: center;
+  text-decoration: underline;
+  width: 10%;
+}
